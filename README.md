@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! I'm Kauã 👋
 
-<!--
-**Kaua26323/Kaua26323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Fullstack Developer** focused on building scalable, user-centric solutions. My background in management and customer service allows me to bridge the gap between technical expertise and strategic vision, turning lines of code into effective solutions for business challenges.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, Shadcn/UI.
+- **Backend:** Node.js, Express, Nest.js (Learning), APIs RESTful.
+- **Databases:** PostgreSQL, MySQL, MongoDB.
+- **Tools:** Git, GitHub, Prisma, Sequelize, Mongoose, Zod, React Hook Form, Axios.
+
+
+### 📊 GitHub Stats
+![Kauã's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)
+
+---
+📫 **How to reach me:**
+[LinkedIn](www.linkedin.com/in/kauadeveloper) | [Email](kaua26323@gmail.com)
